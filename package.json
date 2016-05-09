@@ -1,0 +1,14 @@
+{
+  "name": "hipstereventsourcing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "eslint src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.9.0"
+  }
+}
